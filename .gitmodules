@@ -4,3 +4,6 @@
 [submodule "vue3-realworld-example-app"]
 	path = realworld-frontend
 	url = https://github.com/mutoe/vue3-realworld-example-app.git
+[submodule "realworld-spec"]
+	path = realworld-spec
+	url = https://github.com/gothinkster/realworld.git
